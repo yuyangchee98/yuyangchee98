@@ -1,7 +1,3 @@
-# Hi there 👋
-
-## My Projects
-
 **[Chyuang - Projects & Experiments](https://chyuang.com/)** - My portfolio of web projects and experiments.
 
 **[Book Wheel](https://bookwheel.chyuang.com/)** - A 3D spinning wheel built with Three.js for reading multiple PDFs.
