@@ -1,7 +1,5 @@
 **[Chyuang - Projects & Experiments](https://chyuang.com/)** - My portfolio of web projects and experiments.
 
-**[Book Wheel](https://bookwheel.chyuang.com/)** - A 3D spinning wheel built with Three.js for reading multiple PDFs.
-
 **[Congkak](https://congkak.chyuang.com/)** - Traditional Malay board game. Play the classic mancala-style game online.
 
 **[Draw Line Racing](https://drawlineracing.chyuang.com/)** - Draw your racing line and watch it race.
