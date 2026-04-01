@@ -14,4 +14,4 @@
 
 **[SolvethisOAForMe](https://solvethisoaforme.chyuang.com/)** - Upload your Office Action and let AI analyze every rejection, read the cited prior art, and recommend argue-or-amend strategies so you can focus on the prosecution decisions that matter. 
 
-**[Patent Reader](https://solvethisoaforme.chyuang.com/patent-reader/) - Enter a patent number like you would on Google Patents - but get claim dependency trees, reference numeral mapping, figure bounding boxes, col/line detection, and multi-term search. 
+**[Patent Reader](https://solvethisoaforme.chyuang.com/patent-reader/)** - Enter a patent number like you would on Google Patents - but get claim dependency trees, reference numeral mapping, figure bounding boxes, col/line detection, and multi-term search. 
